@@ -2,6 +2,10 @@
 
 Uncompressed File Storing Format
 
+Currently a work in progress.
+
+Please do not use yet
+
 Usage
 ---
 
